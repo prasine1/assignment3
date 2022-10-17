@@ -44,7 +44,7 @@ void floydWarshall(int weight[v][v]) {
     
      cout<<"->11"<<endl;
 
-      cout<<"Shortest distance is "<<Distance[0][10];
+      cout<<"Shortest distance is "<<Distance[0][10]<<endl;
   } 
 }
 
